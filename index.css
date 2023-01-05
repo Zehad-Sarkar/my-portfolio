@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header section */
+.header-section {
+    background-color: #c4b3b3;
+    background-image: url(./images/header_bg.png), url(./images/developer.png);
+    background-position: bottom right, left;
+    background-repeat: no-repeat;
+}
+.span-color {
+    color: orangered;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;   
+}
+.nav-menu {
+    display: flex;
+    /* justify-content: space-around; */
+    /* margin-top: 30px; */
+    align-items: center;
+    margin: 50px 120px;
+}
+.nav-title {
+    margin-left: 120px;
+    margin-top: 30px;
+    font-size: 60px;
+}
+ul li{
+    list-style: none;
+    margin-right: 20px;
+    font-size: 22px;
+    align-items: center;
+    color: #161414;
+    font-weight: 600;
+}
+.btn-primary {
+    font-size: 24px;
+    background: #FD6E0A;
+    padding: 5px 15px;
+    font-weight: 600;
+    height: 50px;
+}
+.welcome-section{
+    margin: 220px 120px;
+    
+    
+}
+.welcome-title{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+
+}
+.name-title{
+    /* margin-top: 10px; */
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 45px;
+}
+.name-title-description{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.welcome-section .btn-primary{
+    margin-bottom: 20px;
+    margin-right: 60px;
+    padding: 0 30px;
+}
+/* header banner */
+.header-banner{
+    display: flex;
+}
+.head-img{
+    width: 320px;
+    height: 400px;
+    margin-top: 290px;
+    margin-right: 60px;
+}
+.about-container{
+    margin: 30px 5px;
+    padding: 5px 10px;
+    background: #9fbec2ce;
+}
+.about-head{
+    font-weight: 600;
+    font-size: 28px;
+    text-align: center;
+    margin: 40px 120px;
+}
+.about-me-description{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin: 40px 120px;
+
+}
+.main-container{
+    display: flex;
+    gap: 70px;
+    
+    
+
+}
+.main-contact{
+    margin: 20px 70px;
+    
+}
+.name{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.desc{
+    font-size: 18px;
+}
+/* what i do */
