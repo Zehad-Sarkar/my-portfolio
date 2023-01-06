@@ -107,7 +107,7 @@ ul li{
 
 }
 .main-contact{
-    margin: 20px 70px;
+    margin: 20px 40px;
     
 }
 .name{
@@ -118,3 +118,139 @@ ul li{
     font-size: 18px;
 }
 /* what i do */
+.What-i-do{
+    margin: 40px 5px;
+    background: #c4b3b3;
+}
+
+.wid-title{
+    font-weight: 600;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.wid-para{
+    font-weight: 500px;
+    font-size: 18px;
+    margin: 30px 60px;
+
+}
+/* skill section */
+.skill-container{
+    display: flex;
+    gap: 10px;
+    margin: 20px 60px;
+    font-size: 18px;
+}
+.skill{
+    margin-bottom: 30px;
+}
+.summery-container{
+    display: flex;
+    gap: 15px;
+}
+.edu-history{
+    margin: 5px 10px;
+    padding: 10px;
+}
+.summery{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.edu-title{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.edu-para{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10;
+    
+}
+.vsity{
+    margin-top: 5px;
+}
+.btn-cv-primary{
+    height: 54px;
+    font-size: 18px;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    width: 140px;
+    border: none;
+    background: #FD6E0A;
+    border-radius: 10px;
+}
+.contact-container{
+    display: flex;
+    gap: 30px;
+    margin: 30px 5px;
+    /* align-items: center; */
+    background: #c48888;
+}
+.lets-connect{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.lets{
+    margin-bottom: 20px;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.message{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    margin-left: 30px;
+
+}
+.t-area{
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.ip{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.mge{
+    height: 54px;
+    font-size: 18px;
+    
+    margin-bottom: 20px;
+    margin-top: 30px;
+    width: 140px;
+    border: none;
+    background: #FD6E0A;
+    border-radius: 10px;
+}
+.img-logo{
+    margin-top: 20px;
+    margin-bottom: 30px;
+   
+    
+}
+.logo-1{
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.logo-2{
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.logo-3{
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.img-logo a{
+    text-decoration: none;
+    
+}
